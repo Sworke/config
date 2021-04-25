@@ -1,13 +1,10 @@
-# > 流媒体emby-Plus体验服
+# > Emby
 DOMAIN-SUFFIX,emby.plusmedia.site,Emby
 DOMAIN-SUFFIX,emby-cf.plusmedia.site,Emby
 DOMAIN-SUFFIX,emby.xeton.dev,Emby
 DOMAIN-SUFFIX,jellyfin.xeton.dev,Emby
 DOMAIN-SUFFIX,movie.xeton.dev,Emby
 DOMAIN-SUFFIX,servers.xeton.dev,Emby
-
-
-# > 流媒体emby-jmsooo体验服
 DOMAIN-SUFFIX,agahk1.jmsooo.com,Emby
 DOMAIN-SUFFIX,agasg1.jmsooo.com,Emby
 DOMAIN-SUFFIX,agajp1.jmsooo.com,Emby
@@ -15,7 +12,4 @@ DOMAIN-SUFFIX,aws.jmsooo.com,Emby
 DOMAIN-SUFFIX,ntt1.jmsooo.com,Emby
 DOMAIN-SUFFIX,hinet.jmsooo.com,Emby
 DOMAIN-SUFFIX,cf1.jmsooo.com,Emby
-
-# > 流媒体终点站服务器
-
 DOMAIN-SUFFIX,pub3.emby.wtf,Emby
